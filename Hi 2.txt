@@ -1,0 +1,8 @@
+get(
+  'https://api.scrapecreators.com/v1/snapchat/profile?handle=Haydogyy1',
+  {
+    headers: {
+      'x-api-key': 'sk-abcdef1234567890abcdef1234567890abcdef12'
+    }
+  }
+);
