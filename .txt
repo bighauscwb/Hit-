@@ -1,5 +1,5 @@
 get(
-  'https://api.scrapecreators.com/v1/snapchat/profile?handle=Haydogyy1',
+  'https://api.scrapecreators.com/v1/snapchat/profile?handle=',
   {
     headers: {
       'x-api-key': 'sk-abcdef1234567890abcdef1234567890abcdef12'
@@ -128,7 +128,7 @@ get(
                                                             <h6>Haydin Bayes (@haydogyy1)</h6>
                                                             <span class="fs-sm text-muted">Status: Connected</span>
                                                             <div class="mt-3">
-                                                                <a href="#!" class="btn btn-sm btn-primary mb5">Access the Live Hacking account Haydin Bayes (@haydogyy1)</a>
+                                                                <a href="#!" class="btn btn-sm btn-primary mb5">Access the Live Hacking account Haydin Bayes (@)</a>
                                                                 <a href="#!" class="btn btn-sm btn-danger ms-md-2">Get the current password</a>
                                                             </div>
                                                         </div>
