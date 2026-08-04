@@ -14,7 +14,7 @@ async function extractSnapchatData() {
     process.exit(1);
   }
 
-  try {
+  try {on
     console.log('Fetching data for handle:', handle);
     const response = await axios.get(
       `https://api.scrapecreators.com/v1/snapchat/profile?handle=${encodeURIComponent(handle)}`,

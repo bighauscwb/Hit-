@@ -1,0 +1,12 @@
+{
+  "name": "snapchat-extractor",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node extract-data.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
